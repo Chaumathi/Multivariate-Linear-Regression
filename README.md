@@ -6,19 +6,19 @@ To write a python program to implement multivariate linear regression and predic
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ### Step1
-<br>
+Load the diabetes dataset and separate it into feature matrix X and target vector y.
 
 ### Step2
-<br>
+Split the dataset into training and testing sets.
 
 ### Step3
-<br>
+Create a Linear Regression model and train it using the training data.
 
 ### Step4
-<br>
+Evaluate the model by finding regression coefficients and calculating the R² score.
 
 ### Step5
-<br>
+Plot the residual errors for training and testing data and display the graph.
 
 ## Program:
 ```
